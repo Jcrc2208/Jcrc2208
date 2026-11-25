@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hanzo @jcrc2208](https://hanzo.ai)](https://hanzo.ai)
 
-[![Hanzo Founding Developer](https://shields.io)](https://hanzo.ai)
+[![Hanzo @jcrc2208](https://hanzo.ai/badges/jcrc2208.svg)](https://hanzo.ai/leaderboard?ref=jcrc2208)
