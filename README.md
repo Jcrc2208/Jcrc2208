@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hanzo @jcrc2208](https://img.shields.io/badge/Hanzo-jcrc2208-blue)](https://hanzo.ai)
-
-[![Hanzo Founding Developer](https://img.shields.io/badge/Hanzo-Founding%20Developer-black)](https://hanzo.ai)
+<p align="left">
+  <a href="https://hanzo.ai">
+    <img src="https://img.shields.io/badge/HANZO-DEV_PASS-000000?style=for-the-badge&logo=codeium&logoColor=00FF66" alt="Hanzo Dev Pass" />
+  </a>
+  <a href="https://github.com/jcrc2208">
+    <img src="https://img.shields.io/badge/ID-jcrc2208-0052CC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub ID" />
+  </a>
+  <a href="https://hanzo.ai">
+    <img src="https://img.shields.io/badge/ROLE-FOUNDING_DEVELOPER-FF4500?style=for-the-badge&logo=target&logoColor=white" alt="Founding Developer" />
+  </a>
+</p>
